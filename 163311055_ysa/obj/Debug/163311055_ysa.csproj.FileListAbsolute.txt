@@ -1,0 +1,36 @@
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_ysa\bin\Debug\163311055_ysa.exe.config
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_ysa\bin\Debug\163311055_ysa.exe
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_ysa\bin\Debug\163311055_ysa.pdb
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_ysa\obj\Debug\163311055_ysa.csprojAssemblyReference.cache
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_ysa\obj\Debug\_163311055_ysa.Properties.Resources.resources
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_ysa\obj\Debug\163311055_ysa.csproj.GenerateResource.cache
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_ysa\obj\Debug\163311055_ysa.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_ysa\obj\Debug\163311055_ysa.exe
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_ysa\obj\Debug\163311055_ysa.pdb
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_ysa\bin\Debug\NeuronDotNet.Core45.dll
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_ysa\obj\Debug\_163311055_ysa.UI_YSA.resources
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_ysa\obj\Debug\163311055_ysa.csproj.CopyComplete
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_ysa\bin\Debug\163311055_ysa.exe.config
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_ysa\bin\Debug\163311055_ysa.exe
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_ysa\bin\Debug\163311055_ysa.pdb
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_ysa\bin\Debug\NeuronDotNet.Core45.dll
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_ysa\obj\Debug\163311055_ysa.csprojAssemblyReference.cache
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_ysa\obj\Debug\_163311055_ysa.UI_YSA.resources
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_ysa\obj\Debug\_163311055_ysa.Properties.Resources.resources
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_ysa\obj\Debug\163311055_ysa.csproj.GenerateResource.cache
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_ysa\obj\Debug\163311055_ysa.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_ysa\obj\Debug\163311055_ysa.csproj.CopyComplete
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_ysa\obj\Debug\163311055_ysa.exe
+C:\Users\Mrs Engineer\Desktop\YZFİNAL\163311055_aysesimsek\163311055_ysa\obj\Debug\163311055_ysa.pdb
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_ysa\bin\Debug\163311055_ysa.exe.config
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_ysa\bin\Debug\163311055_ysa.exe
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_ysa\bin\Debug\163311055_ysa.pdb
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_ysa\bin\Debug\NeuronDotNet.Core45.dll
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_ysa\obj\Debug\163311055_ysa.csprojAssemblyReference.cache
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_ysa\obj\Debug\_163311055_ysa.UI_YSA.resources
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_ysa\obj\Debug\_163311055_ysa.Properties.Resources.resources
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_ysa\obj\Debug\163311055_ysa.csproj.GenerateResource.cache
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_ysa\obj\Debug\163311055_ysa.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_ysa\obj\Debug\163311055_ysa.csproj.CopyComplete
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_ysa\obj\Debug\163311055_ysa.exe
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_aysesimsek_BM_YSA\163311055_ysa\obj\Debug\163311055_ysa.pdb
